@@ -2,7 +2,8 @@ package com.sunbeam;
 
 import java.util.Scanner;
 //Write a linear search to find last occurance of given key
-public class Assignment01 {
+//Q1
+public class Assignment01_Q1 {
 
 	public static int lastOccurance(int arr[],int key) {
 		int count=0;
