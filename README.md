@@ -128,15 +128,3 @@ Use a hash map to store visited elements and check if the complement exists.
 
 ⭐ If you find this repository useful, consider giving it a **star**!
 
-```
-
----
-
-If you want, I can also give you:
-
-- **🔥 A professional GitHub README for DSA (with badges & progress tracker)**  
-- **📊 450 DSA problem tracker README**  
-- **🧠 NeetCode / Striver Sheet README template**
-
-Just tell me.
-```
