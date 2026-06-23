@@ -1,3 +1,4 @@
+package com.sunbeam;
 public class DescendingInsertionSort {
 
     public static void descendingInsertionSort(int[] arr) {
